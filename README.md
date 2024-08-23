@@ -1,5 +1,5 @@
 # A형 알고리즘 스터디
-asdf
+
 [업로드 방법](https://miro7923.github.io/uno%20mas/teamwork-by-github/)  
 
 ---

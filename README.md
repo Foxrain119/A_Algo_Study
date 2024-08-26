@@ -21,12 +21,13 @@
 
 
 ---
- 이론 | 시작일 | 종료일 
----|:---:|:---:
+ 이론 | 문제 | 시작일 | 종료일 
+---|:---:|:---:|:---:
+ `DFS`|[내리막길](https://www.acmicpc.net/problem/1520) |8.25.|8.26.
+ '트리' | [트리](https://www.acmicpc.net/problem/4803) |8.26.
  `Greedy / DP` | 
  `Binary Search(lower bound, upper bound)`
- `슬라이딩 윈도우 (투 포인터)`
- `DFS`| 8.25.
+ `슬라이딩 윈도우 (투 포인터)'
  `backtracking`
  `BFS`
  `Flood Fill`

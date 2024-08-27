@@ -24,12 +24,12 @@
  이론 | 문제 | 시작일 | 종료일 
 ---|:---:|:---:|:---:
  `DFS`|[내리막길](https://www.acmicpc.net/problem/1520) |8.25.|8.26.
- '트리' | [트리](https://www.acmicpc.net/problem/4803) |8.26.
+ '트리' | [트리](https://www.acmicpc.net/problem/4803) |
  `Greedy / DP` | 
  `Binary Search(lower bound, upper bound)`
  `슬라이딩 윈도우 (투 포인터)'
  `backtracking`
- `BFS`
+ `BFS`|[불](https://www.acmicpc.net/problem/5427) |8.26.|8.27.
  `Flood Fill`
  `힙 자료구조 -> 다익스트라`
  `union find`

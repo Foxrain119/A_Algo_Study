@@ -29,7 +29,7 @@
  `Binary Search(lower bound, upper bound)`
  `슬라이딩 윈도우 (투 포인터)'
  `backtracking`
- `BFS`|[불](https://www.acmicpc.net/problem/5427) |8.26.|8.27.
+ `BFS`|[그림](https://www.acmicpc.net/problem/1926) [불](https://www.acmicpc.net/problem/5427) |8.26.|8.27.
  `Flood Fill`
  `힙 자료구조 -> 다익스트라`
  `union find`

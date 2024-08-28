@@ -2,7 +2,7 @@
 - 난이도 : Silver 1
 - 알고리즘 : BFS / DFS
 
-# Baekjoon_5427 불
+# Baekjoon_5427 불  
 - 난이도 : Gold 4
 - 알고리즘 : BFS
 - remark!

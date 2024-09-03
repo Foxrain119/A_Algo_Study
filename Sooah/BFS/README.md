@@ -18,3 +18,8 @@
 - 난이도 : D4
 - 알고리즘 : BFS
 - Keypoint : 예외 처리 (모두 1인 무리일 때)
+
+#### SWEA_10966 물놀이를 가자 [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)
+- 난이도 : D4
+- 알고리즘 : BFS
+- Keypoint : `적어도 하나의 ‘W’는 주어지는 것이 보장된다.` -> W부터 탐색, 시간 단축필수

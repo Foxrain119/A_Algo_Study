@@ -13,3 +13,8 @@
 - 난이도 : Platinum 3
 - 알고리즘 : BFS
 - Kepoint : 경로 최적화
+
+### SWEA_7465 창용 마을 무리의 개수 [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU)
+- 난이도 : D4
+- 알고리즘 : BFS
+- Keypoint : 예외 처리 (모두 1인 무리일 때)

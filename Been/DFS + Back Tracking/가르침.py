@@ -1,3 +1,9 @@
+'''
+https://www.acmicpc.net/problem/1062
+
+조합, 비트 마스킹(?) - 수아 자료 참고
+'''
+
 def check(sub):
     counts = 0
     for w in words:
@@ -11,11 +17,13 @@ def check(sub):
 
 def combi(now, count):
     global result, c, can
+    # 조합 완성 시 체크
     if count == n:
         h = check(subset)
         if result < h:
             result = h
         return
+    # 조합 실행문
     for i in range(now, c):
         if cnt[can[i]]:
             subset[can[i]] = 1
@@ -25,12 +33,13 @@ def combi(now, count):
 
 N, K = map(int, input().split())
 n = K - 5  # 가르칠 수 있는 개수
+
 alpha = {'a', 'n', 't', 'i', 'c'}
 words = []  # 체킹된 각 단어들
 cnt = [0] * 26  # 가르칠 수 있는 종류 체킹
 ans = 0
 
-# 각 단어 입력
+# 각 단어 저장
 for _ in range(N):
     tmp = [0] * 26
     # 중복 제외

@@ -9,8 +9,8 @@
 - 시간초과
 - 다시 풀어보기
 
-# Baekjoon_9663 N_Queen
+### Baekjoon_9663 N_Queen
 - 난이도 : Gold 4
 - 알고리즘 : Backtracking
-- 실패
+- 어려웠음
 

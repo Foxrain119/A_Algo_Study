@@ -17,18 +17,18 @@
 성빈|  
 수아|  
 고운|  
-석주| <img src="https://private-user-images.githubusercontent.com/175068261/360436431-1e04209c-75fd-4293-a682-74addb8ee090.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQzMzE3NDEsIm5iZiI6MTcyNDMzMTQ0MSwicGF0aCI6Ii8xNzUwNjgyNjEvMzYwNDM2NDMxLTFlMDQyMDljLTc1ZmQtNDI5My1hNjgyLTc0YWRkYjhlZTA5MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMlQxMjU3MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOWEyNzQ0ZDgyZjI3NTU3NjBkNjJkYjgzZWVkNzNhMDYzMDdlODRlODhkNmMwMTYxNDBmNTY1MTE3NmIxNjYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DHCzJdPVfZRLSZgDlL55z_YGQU0rhectXVSqLbImX3A" width="30" height="30">
+석주|
 
 
 ---
- 이론 | 시작일 | 종료일 
----|:---:|:---:
- `Greedy / DP` | 8.25.
+ 이론 | 문제 | 시작일 | 종료일 
+---|:---:|:---:|:---:
+ `DFS`|[내리막길](https://www.acmicpc.net/problem/1520) |8.25.|8.26.
+ `BFS`|[그림](https://www.acmicpc.net/problem/1926) [불](https://www.acmicpc.net/problem/5427) |8.26.|8.27.
+ `Backtracking` |[N-queen](https://www.acmicpc.net/problem/9663) [가르침](https://www.acmicpc.net/problem/1062)|8.27.|
+ `Greedy / DP` | 
  `Binary Search(lower bound, upper bound)`
- `슬라이딩 윈도우 (투 포인터)`
- `DFS`
- `backtracking`
- `BFS`
+ `슬라이딩 윈도우 (투 포인터)'
  `Flood Fill`
  `힙 자료구조 -> 다익스트라`
  `union find`

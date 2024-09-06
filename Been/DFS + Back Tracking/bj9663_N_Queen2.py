@@ -1,3 +1,9 @@
+'''
+https://www.acmicpc.net/problem/9663
+
+열, 대각선 *2 방문처리
+시간 최적화
+'''
 def sol(k):
     global n, cnt
     if k == n:

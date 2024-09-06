@@ -1,3 +1,8 @@
+'''
+https://www.acmicpc.net/problem/9663
+
+방문처리의 최적화
+'''
 def check(cnt):
     for i in range(cnt):
         if chess[cnt] == chess[i] or abs(chess[cnt] - chess[i]) == abs(cnt - i):

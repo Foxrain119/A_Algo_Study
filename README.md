@@ -31,6 +31,6 @@
   `union find` | |9.7.
  `Greedy / DP` | 
  `Binary Search(lower bound, upper bound)`
- `슬라이딩 윈도우 (투 포인터)'
+ `슬라이딩 윈도우 (투 포인터)`
  `Flood Fill`
  `MST` | | 
